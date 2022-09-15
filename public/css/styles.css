@@ -1,0 +1,29 @@
+img{
+    height: 150px;
+}
+h4{
+    font-style: italic;
+    font-size: larger;
+    font-family: inherit;
+}
+p{
+    height: 64%;
+    font-family: inherit;
+    overflow-x: hidden;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+    padding-right: 10px;
+    text-align: justify;
+}
+
+.card{
+    width: 100%;
+    height: 500px;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    box-shadow:  0 0 29px 0 rgb(68 88 144 / 12%);
+    box-sizing: border-box;
+    position: relative;
+    overflow: hidden;
+}
